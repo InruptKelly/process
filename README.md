@@ -123,9 +123,11 @@ Editors have [_Admin Permissions_](https://help.github.com/en/articles/repositor
 
 # Administration
 
-Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
+Administrators are granted privileged access to control the tools, systems, and services used for advancing Solid. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
 
 Administrators belong to the [Administrators Team](https://github.com/orgs/solid/teams/administrators) in the [Solid GitHub Organization](https://github.com/solid) and have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories therein. Administrators have [_Owner Permissions_](https://help.github.com/en/articles/permission-levels-for-an-organization#permission-levels-for-an-organization) for the [Solid GitHub Organization](https://github.com/solid).
+
+The Solid World Coordination Administrator has privileged access only to the tools, systems and services required to coordinate and promote the monthly Solid World webinar, including [Vimeo] (https://vimeo.com/solidworld), [Eventbrite] (https://www.eventbrite.co.uk/o/solid-project-30026804546_, [Twitter] (https://twitter.com/project_solid) and [Typeform] (https://es1cz4pb7oi.typeform.com/to/nietD34f).
 
 ### Becoming an Administrator
 
